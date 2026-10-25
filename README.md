@@ -27,7 +27,7 @@ Personal note collection — pragmatic and easy to read. Feedback welcome.
 ## Usage
 
 ```bash
-node src/index.js
+node index.js
 ```
 
 ## Notes
